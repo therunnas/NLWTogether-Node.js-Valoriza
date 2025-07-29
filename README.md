@@ -36,7 +36,7 @@ Valoriza is a platform to promote recognition among teammates.
 Finally, the application will be available at `http://localhost:3000`
 
 ## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
+ 
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/therunnas/NLWTogether-Node.js-Valoriza/blob/main/LICENSE) file for more details.
 
 
