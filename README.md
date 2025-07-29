@@ -1,5 +1,5 @@
 <h1 align="center">Valoriza - NLW Together (Node.js)</h1>
-<h3 align="center">Projeto feito com base nas aulas da Rockseat com o intuito de aprender Typescript, Node.js e outras coisas</h3>
+<h3 align="center">Project based on Rockseat classes with the aim of learning Typescript, Node.js and other things</h3>
 
 <br>
 
@@ -15,28 +15,28 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+This project was developed with the following technologies:
 
 - [Node.js](https://nodejs.org/en/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Express](https://expressjs.com/pt-br/)
 - [JSONWebToken](https://github.com/auth0/node-jsonwebtoken#readme)
 
-## 💻 Projeto
+## 💻 Project
 
-Valoriza é uma plataforma para promover o reconhecimento entre companheiros de equipe.
-
+Valoriza is a platform to promote recognition among teammates.
 ## 🚀 Como executar
 
-- Clone o repositório
-- Rode `yarn` para baixar as dependências
-- Rode `yarn typeorm migration:run` para criar as tabelas do banco de dados.
-- Rode o `yarn dev` para iniciar a aplicação.
+- Clone the repository
+- Run `yarn` to download dependencies
+- Run `yarn typeorm migration:run` to create the database tables.
+- Run `yarn dev` to start the application.
 
-Por fim, a aplicação estará disponível em `http://localhost:3000`
+  
+Finally, the application will be available at `http://localhost:3000`
 
-## 📄 Licença
+## 📄 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for more details.
 
 
